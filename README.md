@@ -9,3 +9,11 @@ Pre-Proposed solution
 In 2018, Rajaraman et al. published a paper entitled Pre-trained convolutional neural networks as feature extractors toward improved parasite detection in thin blood smear images.He worked on Neural nets and utilized six-pre trained convolutional Neural Networks.
 But Feature extraction and subsequent training took a little over 24 hours and obtained an impressive 95.9% accuracy.
 The problem here is the number of models being utilized — it’s inefficient
+
+Malaria-Classification-Using-CNN
+Content
+The dataset contains 2 folders - Infected - Uninfected
+And a total of 27,558 images.
+
+Acknowledgements
+This Dataset is taken from the official NIH Website: https://ceb.nlm.nih.gov/repositories/malaria-datasets/ And uploaded here, so anybody trying to start working with this dataset can get started immediately, as to download the dataset from NIH website is quite slow.
